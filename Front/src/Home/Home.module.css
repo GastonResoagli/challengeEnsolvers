@@ -1,0 +1,15 @@
+.home {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.button {
+	display: grid;
+	text-align: center;
+	margin-left: 5%;
+}
+
+.text {
+	text-align: center;
+}
